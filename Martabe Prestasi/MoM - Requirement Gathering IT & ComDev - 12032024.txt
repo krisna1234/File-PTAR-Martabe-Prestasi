@@ -1,0 +1,70 @@
+Meeting Martabe Prestasi (12/03/2024):
+Peserta : Yayan, Janel, Arif
+
+1. Untuk periode saat ini pakai Google Form dulu
+2. Harapan user: untuk aplikasi dan Google Form itu bisa sama
+3. Perguruan Tinggi untuk saat ini di D3 dan S1
+
+SD - SMP
+4. SD - SMP yang menginput data adalah sekolah
+5. Ada periode penginputan data (jadwal pendaftaran, verifikasi, pengumuman, dll)
+6. Untuk minimalisir kecamatan: batangtoru & muara batangtoru - Khusus SD dan SMP
+7. 1 Form untuk 1 Siswa
+8. Untuk 100 Siswa biasanya ada beasiswa untuk 3 Anak
+9. Semua sekolah di 2 kecamatan batangtoru & muara batangtoru otomatis bisa mengajukan beasiswa
+10. Beasiswa khusus untuk Siswa yang berdomisili di batangtoru & muara batangtoru
+11. Ada periode pendaftaran dan ditutup jika sudah melewati periode
+12. Dan bisa dibuka lagi untuk beberapa sekolah atau jika ada yang siswanya digantikan, khusus untuk sekolah tersebut saja (terbatas)
+13. Kategorisasi saat ini masih per file, misalnya semua foto masih dalam 1 folder yang sama
+14. Harapannya kategori file langsung per data siswa
+15. Pengumuman bisa diliat oleh semua (public) dan ada notifikasi ke sekolah
+16. Semua sekolah sudah berjalan melalui google form dan tidak ada lagi yang mengantar dokumen hardfile
+17. Tidak ada toleransi jika pengajuannya sudah gagal / ditolak oleh PTAR
+18. Beasiswa SD diberikan maksimum 2 tahun mulai kelas 2 SD, setelahnya dilakukan pengajuan kembali
+19. Beasiswa SMP diberikan maksimum 2 tahun mulai kelas 1 SMP, setelahnya dilakukan pengajuan kembali
+
+SMA - Reguler
+- Khusus untuk domisili TAPSEL
+- Didaftarkan langsung oleh Siswa
+ 
+SMA - Khusus
+- Khusus untuk domisili BATANG TORU & MUARA BATANG TORU
+- TIDAK MELALUI REKRUTMEN LANGSUNG
+- HARUS MELALUI BIMBEL
+- PROSESNYA SUDAH DIMULAI 1 TAHUN SEBELUM MENERIMA BEASISWA
+
+SMA - PT
+- Secara flow sama, hanya berbeda secara form
+- Ada periode penginputan data (jadwal pendaftaran, verifikasi, pengumuman, dll)
+- Ada toleransi jika nilai siswa dibawah standar, karena untuk SMA beasiswa berlaku dari kelas 10 - 12
+- Ada fitur untuk track nilai siswa
+
+SMA - Unggulan
+- Didaftarkan di kelas 3 SMP
+- Diajukan oleh sekolah
+- Dibimbing selama 1 tahun oleh PTAR
+- Jika tidak lulus, masih bisa mendaftar beasiswa yang lain melalui form yang lain juga
+
+PT
+- PT yang hanya ada di TABAGSEL: khusus untuk yang berdomisili di BATANG TORU & MUARA BATANG TORU (D3 - S1, Swasta atau Nasional boleh)
+- PT yang ada diluar TABAGSEL (Nasional): 
+- PTN Unggulan: Univ dan Jurusan ditentukan oleh PTAR
+- S1 dapat beasiswa 8 semester, misal masuk di semester 4, dapatnya mulai semester 4 - 8
+
+Terkait link ke Bank:
+- Yang bisa difasilitasi adalah sistem memberikan nama siapa saja yang memperoleh layak pembayaran dan divalidasi lagi oleh Admin
+
+Berdasarkan budget (saat ini 100jt):
+- Mekanisme pendaftaran akun
+- Profil (sekolah / pribadi)
+- Verifikasi Akun
+- Management Nilai / Upload Nilai
+- Pendaftaran beasiswa (sampai pemberitahuan lulus atau tidak lulus)
+
+- Tracer alumni beasiswa (status sedang bekerja, wirausaha, ibu rumah tangga, dll)
+- Pain Point saat ini yang paling mendesak adalah di kategorisasi file per siswa
+- Status akun: penerima beasiswa atau pendaftar
+- Bisa melakukan daftar ulang beasiswa
+
+- Target: di Bulan Agustus sistem sudah ready untuk penerima beasiswa khusus (kelas 9 SMP)
+

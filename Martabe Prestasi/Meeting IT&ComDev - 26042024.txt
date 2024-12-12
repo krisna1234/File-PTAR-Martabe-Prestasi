@@ -1,0 +1,37 @@
+Meeting Martabe Prestasi 26/04/2024
+Attendant:
+- Pak Yayan
+- Bu Rohani
+- Bu Nurhijriyah
+- Pak Imam
+- Pak Yoga
+- Pak Janel
+- Arif Harahap
+
+Notes:
+- Akun diberikan oleh tim ComDev ke Institusi (Sekolah) khusus yang berada di Lokasi BatangToru & Muara BatangToru
+- Untuk SMA Unggulan flow nya sama dengan SD & SMP, didaftarkan oleh sekolah
+
+Pembahasan SD & SMP:
+- 1 Sekolah punya 1 Akun
+- Sistem dipersiapkan agar bisa autentikasi ke nomor HP atau email sekolah (concern: agar tidak ada sharing account)
+- Untuk fase revisi data tergantung fase yang ditentukan ketika membuat data beasiswa
+- Template notifikasi terkait lulus atau tidak lulus pendaftaran beasiswa
+- Notifikasi dan bahasa sistem menggunakan bahasa indonesia
+- Quota untuk setiap sekolah berbeda, hanya bisa submit sesuai dengan jumlah yang sudah ditentukan,
+  dan setiap tahun bisa berbeda jumlah quotanya (untuk sementara diverifikasi manual oleh PTAR ComDev)
+- Ada mekanisme untuk revisi data
+- SD & SMP jika sudah lulus tidak perlu untuk melakukan update data, SD & SMP hanya untuk pendaftaran saja
+- Ada verifikasi melalui NIK, karena untuk setiap siswa hanya berhak untuk 2x beasiswa
+- Sistem memiliki historical data siswa sudah berapa kali daftar dan menerima beasiswa
+- Ada verifikasi melalui Nomor KK, untuk menghitung dalam 1 keluarga ada berapa yang dapat beasiswa,
+  karena ada maksimal yang boleh menerima dalam 1 keluarga
+
+Pembahasan SMA & PT:
+- Akun login dapat jika sudah lulus beasiswa (confirmed)
+- Verifikasi dilakukan secara manual oleh tim ComDev
+- Profile bisa menjadi Tracer Study, dan ada reminder untuk mengisi Tracer
+- Profile juga mengakomodir history penerimaan pembayaran untuk setiap periode / semester (punya payment date)
+- Sistem memiliki list siapa saja yang sudah menerima dan belum menerima pembayaran untuk setiap periode beasiswa
+
+
